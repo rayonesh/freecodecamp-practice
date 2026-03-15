@@ -1,5 +1,7 @@
 def spam():
     print("Spam!")
+    pass
+    
 def caesar():
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
     shift = 5
