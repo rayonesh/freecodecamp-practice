@@ -1,0 +1,102 @@
+{
+  "duration": 43.04812500000001,
+  "num_speakers": 2,
+  "transcription_segments": [
+    {
+      "start": 0,
+      "end": 0.5231250000000074,
+      "speaker": "SPEAKER_02",
+      "transcription": "تعالي يا موزه"
+    },
+    {
+      "start": 1.3499999999999943,
+      "end": 2.784374999999997,
+      "speaker": "SPEAKER_02",
+      "transcription": "!!موزه"
+    },
+    {
+      "start": 8.977500000000006,
+      "end": 10.293750000000003,
+      "speaker": "SPEAKER_02",
+      "transcription": "موزه كسرة صححوووون"
+    },
+    {
+      "start": 10.580624999999998,
+      "end": 10.901250000000005,
+      "speaker": "SPEAKER_02",
+      "transcription": "صحنتش"
+    },
+    {
+      "start": 11.778750000000002,
+      "end": 12.555000000000007,
+      "speaker": "SPEAKER_02",
+      "transcription": "صححنش تغل تش تغل"
+    },
+    {
+      "start": 15.339375000000004,
+      "end": 15.744375000000005,
+      "speaker": "SPEAKER_02",
+      "transcription": "تشتتكسر"
+    },
+    {
+      "start": 15.896249999999995,
+      "end": 17.668125000000003,
+      "speaker": "SPEAKER_02",
+      "transcription": "تشتغل في الفندق هي"
+    },
+    {
+      "start": 17.820000000000007,
+      "end": 19.136250000000004,
+      "speaker": "SPEAKER_02",
+      "transcription": "هي كوتها كلها والحينكوي"
+    },
+    {
+      "start": 20.01375,
+      "end": 24.502499999999998,
+      "speaker": "SPEAKER_02",
+      "transcription": "والحينكوي وراها هايل وأنابت مالي بعدر"
+    },
+    {
+      "start": 24.991875000000007,
+      "end": 28.04625,
+      "speaker": "SPEAKER_00",
+      "transcription": "بعدر ربدي اللي تكوي اليوم شفت الكوايهيابي"
+    },
+    {
+      "start": 28.04625,
+      "end": 28.92375,
+      "speaker": "SPEAKER_02",
+      "transcription": "الكوايهيابي اشوف"
+    },
+    {
+      "start": 30.155625,
+      "end": 31.438125,
+      "speaker": "SPEAKER_02",
+      "transcription": "اشوف كيف رابططة شوف"
+    },
+    {
+      "start": 34.18875000000001,
+      "end": 35.11687500000001,
+      "speaker": "SPEAKER_02",
+      "transcription": "شوف س"
+    },
+    {
+      "start": 39.031875,
+      "end": 39.791250000000005,
+      "speaker": "SPEAKER_02",
+      "transcription": "س"
+    },
+    {
+      "start": 41.29312499999999,
+      "end": 42.39,
+      "speaker": "SPEAKER_00",
+      "transcription": "مادري ينةز"
+    },
+    {
+      "start": 42.62625000000001,
+      "end": 43.04812500000001,
+      "speaker": "SPEAKER_02",
+      "transcription": "زينة "
+    }
+  ]
+}
